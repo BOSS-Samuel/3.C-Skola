@@ -1,1 +1,6 @@
-# 3.C-Skola
+# Moja prva stranka
+ireni benuvs sadoia
+
+## Hello
+- fotky
+- kontakt
